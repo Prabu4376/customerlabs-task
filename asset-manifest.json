@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/customerlabs-task/static/css/main.7f995756.css",
+    "main.js": "/customerlabs-task/static/js/main.08e27b57.js",
+    "index.html": "/customerlabs-task/index.html",
+    "main.7f995756.css.map": "/customerlabs-task/static/css/main.7f995756.css.map",
+    "main.08e27b57.js.map": "/customerlabs-task/static/js/main.08e27b57.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7f995756.css",
+    "static/js/main.08e27b57.js"
+  ]
+}
